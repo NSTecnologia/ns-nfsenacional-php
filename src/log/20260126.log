@@ -1,0 +1,28 @@
+[2026/01/26 15:50:01][NFSe: ]: [EMISSAO_SINCRONA_INICIO]
+[2026/01/26 15:50:01][NFSe]: [ENVIA_DADOS]
+[2026/01/26 15:50:01][NFSe]: {"DPS":{"versao":"1.00","infDPS":{"tpAmb":"2","dhEmi":"2026-01-09T15:59:00-03:00","verAplic":"NS1.0.0","serie":"1","nDPS":"29","dCompet":"2025-01-09","tpEmit":"1","cLocEmi":"3106200","prest":{"CNPJ":"13278005000122","fone":"3192106582","email":"FERNANDOAVRA@GMAIL.COM","regTrib":{"opSimpNac":"3","regApTribSN":"1","regEspTrib":"0"}},"serv":{"locPrest":{"cLocPrestacao":"3106200"},"cServ":{"cTribNac":"171102","cTribMun":"002","xDescServ":"Mensalidade Sistema Food Plus","cNBS":"103012200"}},"valores":{"vServPrest":{"vServ":"1000.00"},"trib":{"tribMun":{"tribISSQN":"1","tpRetISSQN":"1"},"tribFed":{"piscofins":{"CST":"08"}},"totTrib":{"pTotTribSN":"12.00"}}}}}}
+[2026/01/26 15:56:36][NFSe: ]: [EMISSAO_SINCRONA_INICIO]
+[2026/01/26 15:56:36][NFSe]: [ENVIA_DADOS]
+[2026/01/26 15:56:36][NFSe]: {"DPS":{"versao":"1.00","infDPS":{"tpAmb":"2","dhEmi":"2026-01-09T15:59:00-03:00","verAplic":"NS1.0.0","serie":"1","nDPS":"29","dCompet":"2025-01-09","tpEmit":"1","cLocEmi":"3106200","prest":{"CNPJ":"13278005000122","fone":"3192106582","email":"FERNANDOAVRA@GMAIL.COM","regTrib":{"opSimpNac":"3","regApTribSN":"1","regEspTrib":"0"}},"serv":{"locPrest":{"cLocPrestacao":"3106200"},"cServ":{"cTribNac":"171102","cTribMun":"002","xDescServ":"Mensalidade Sistema Food Plus","cNBS":"103012200"}},"valores":{"vServPrest":{"vServ":"1000.00"},"trib":{"tribMun":{"tribISSQN":"1","tpRetISSQN":"1"},"tribFed":{"piscofins":{"CST":"08"}},"totTrib":{"pTotTribSN":"12.00"}}}}}}
+[2026/01/26 15:58:48][NFSe: ]: [EMISSAO_SINCRONA_INICIO]
+[2026/01/26 15:58:48][NFSe]: [ENVIA_DADOS]
+[2026/01/26 15:58:48][NFSe]: {"DPS":{"versao":"1.00","infDPS":{"tpAmb":"2","dhEmi":"2026-01-09T15:59:00-03:00","verAplic":"NS1.0.0","serie":"1","nDPS":"29","dCompet":"2025-01-09","tpEmit":"1","cLocEmi":"3106200","prest":{"CNPJ":"13278005000122","fone":"3192106582","email":"FERNANDOAVRA@GMAIL.COM","regTrib":{"opSimpNac":"3","regApTribSN":"1","regEspTrib":"0"}},"serv":{"locPrest":{"cLocPrestacao":"3106200"},"cServ":{"cTribNac":"171102","cTribMun":"002","xDescServ":"Mensalidade Sistema Food Plus","cNBS":"103012200"}},"valores":{"vServPrest":{"vServ":"1000.00"},"trib":{"tribMun":{"tribISSQN":"1","tpRetISSQN":"1"},"tribFed":{"piscofins":{"CST":"08"}},"totTrib":{"pTotTribSN":"12.00"}}}}}}
+[2026/01/26 16:01:45][NFSe: ]: [EMISSAO_SINCRONA_INICIO]
+[2026/01/26 16:01:45][NFSe]: [ENVIA_DADOS]
+[2026/01/26 16:01:45][NFSe]: {"DPS":{"versao":"1.00","infDPS":{"tpAmb":"2","dhEmi":"2026-01-09T15:59:00-03:00","verAplic":"NS1.0.0","serie":"1","nDPS":"29","dCompet":"2025-01-09","tpEmit":"1","cLocEmi":"3106200","prest":{"CNPJ":"13278005000122","fone":"3192106582","email":"FERNANDOAVRA@GMAIL.COM","regTrib":{"opSimpNac":"3","regApTribSN":"1","regEspTrib":"0"}},"serv":{"locPrest":{"cLocPrestacao":"3106200"},"cServ":{"cTribNac":"171102","cTribMun":"002","xDescServ":"Mensalidade Sistema Food Plus","cNBS":"103012200"}},"valores":{"vServPrest":{"vServ":"1000.00"},"trib":{"tribMun":{"tribISSQN":"1","tpRetISSQN":"1"},"tribFed":{"piscofins":{"CST":"08"}},"totTrib":{"pTotTribSN":"12.00"}}}}}}
+[2026/01/26 16:07:01][NFSe: ]: [EMISSAO_SINCRONA_INICIO]
+[2026/01/26 16:07:01][NFSe]: [ENVIA_DADOS]
+[2026/01/26 16:07:01][NFSe]: {"DPS":{"versao":"1.00","infDPS":{"tpAmb":"2","dhEmi":"2026-01-09T15:59:00-03:00","verAplic":"NS1.0.0","serie":"1","nDPS":"29","dCompet":"2025-01-09","tpEmit":"1","cLocEmi":"3106200","prest":{"CNPJ":"13278005000122","fone":"3192106582","email":"FERNANDOAVRA@GMAIL.COM","regTrib":{"opSimpNac":"3","regApTribSN":"1","regEspTrib":"0"}},"serv":{"locPrest":{"cLocPrestacao":"3106200"},"cServ":{"cTribNac":"171102","cTribMun":"002","xDescServ":"Mensalidade Sistema Food Plus","cNBS":"103012200"}},"valores":{"vServPrest":{"vServ":"1000.00"},"trib":{"tribMun":{"tribISSQN":"1","tpRetISSQN":"1"},"tribFed":{"piscofins":{"CST":"08"}},"totTrib":{"pTotTribSN":"12.00"}}}}}}
+[2026/01/26 16:07:03][NFSe]: [ENVIA_RESPOSTA]
+[2026/01/26 16:07:03][NFSe]: null
+[2026/01/26 16:07:03][NFSe: ]: [JSON_RETORNO]
+[2026/01/26 16:07:03][NFSe: ]: []
+[2026/01/26 16:07:03][NFSe: ]: [EMISSAO_SINCRONA_FIM]
+[2026/01/26 16:18:58][NFSe: ]: [EMISSAO_SINCRONA_INICIO]
+[2026/01/26 16:18:58][NFSe]: [ENVIA_DADOS]
+[2026/01/26 16:18:58][NFSe]: {"DPS":{"versao":"1.00","infDPS":{"tpAmb":"2","dhEmi":"2026-01-09T15:59:00-03:00","verAplic":"NS1.0.0","serie":"1","nDPS":"29","dCompet":"2025-01-09","tpEmit":"1","cLocEmi":"3106200","prest":{"CNPJ":"13278005000122","fone":"3192106582","email":"FERNANDOAVRA@GMAIL.COM","regTrib":{"opSimpNac":"3","regApTribSN":"1","regEspTrib":"0"}},"serv":{"locPrest":{"cLocPrestacao":"3106200"},"cServ":{"cTribNac":"171102","cTribMun":"002","xDescServ":"Mensalidade Sistema Food Plus","cNBS":"103012200"}},"valores":{"vServPrest":{"vServ":"1000.00"},"trib":{"tribMun":{"tribISSQN":"1","tpRetISSQN":"1"},"tribFed":{"piscofins":{"CST":"08"}},"totTrib":{"pTotTribSN":"12.00"}}}}}}
+[2026/01/26 16:18:58][NFSe]: [ENVIA_RESPOSTA]
+[2026/01/26 16:18:58][NFSe]: {"status":502,"motivo":"Erro ao decodificar JSON ou resposta vazia. Raw: <html>\r\n<head><title>502 Bad Gateway<\/title><\/head>\r\n<body>\r\n<center><h1>502 Bad Gateway<\/h1><\/center>\r\n<hr><center>nginx\/1.18.0 (Ubuntu)<\/center>\r\n<\/body>\r\n<\/html>\r\n","erros":[]}
+[2026/01/26 16:18:58][NFSe: ]: [JSON_RETORNO]
+[2026/01/26 16:18:58][NFSe: ]: {"statusEnvio":502,"motivo":"Erro ao decodificar JSON ou resposta vazia. Raw: <html>\r\n<head><title>502 Bad Gateway<\/title><\/head>\r\n<body>\r\n<center><h1>502 Bad Gateway<\/h1><\/center>\r\n<hr><center>nginx\/1.18.0 (Ubuntu)<\/center>\r\n<\/body>\r\n<\/html>\r\n"}
+[2026/01/26 16:18:58][NFSe: ]: [EMISSAO_SINCRONA_FIM]
