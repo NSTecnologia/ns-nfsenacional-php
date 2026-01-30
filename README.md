@@ -57,7 +57,7 @@ O JSON retornado pelo método terá os seguintes campos: statusEnvio, statusCons
         "cStat": "100",
         "chNFSe": "31062002213278005000122000000000002926016153125604",
         "chDPS": "310620021327800500012200001000000000000029",
-        "motivo": "Autorizado o uso da NF-e",
+        "motivo": "Autorizado o uso da NFS-e",
         "nsNRec": "313022",
         "erros": ""
     }
