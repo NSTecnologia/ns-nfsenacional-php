@@ -12,7 +12,7 @@ Para utilizar as funções de comunicação com a API, você precisa realizar os
 2. Copie para sua aplicação a pasta src, na qual contem todos as classes que serão utilizadas;
 3. Abra o seu projeto e importe a pasta copiada.
 
-Pronto! Agora, você já pode consumir a NS NFS-e API através do seu sistema. Todas as funcionalidades de comunicação foram implementadas na classe NFeAPI.php.
+Pronto! Agora, você já pode consumir a NS NFS-e API através do seu sistema. Todas as funcionalidades de comunicação foram implementadas na classe NFSeAPI.php.
 
 ------
 
@@ -44,7 +44,7 @@ Após ter todos os parâmetros listados acima, você deverá fazer a chamada da 
       $retorno = json_decode($retorno, true);
 	  var_dump($retorno);
 
-A função emitirNFSeSincrono fará o envio, a consulta e download do documento, utilizando as funções emitirDocumento, consultarStatusProcessamento e downloadDocumentoESalvar, presentes na classe NFSeAPI.php. Por isso, o retorno será um JSON com os principais campos retornados pelos métodos citados anteriormente. No exemplo abaixo, veja como tratar o retorno da função emitirNFeSincrono:
+A função emitirNFSeSincrono fará o envio, a consulta e download do documento, utilizando as funções emitirDocumento, consultarStatusProcessamento e downloadDocumentoESalvar, presentes na classe NFSeAPI.php. Por isso, o retorno será um JSON com os principais campos retornados pelos métodos citados anteriormente. No exemplo abaixo, veja como tratar o retorno da função emitirNFSeSincrono:
 
 ##### Exemplo de tratamento de retorno:
 
@@ -65,7 +65,7 @@ O JSON retornado pelo método terá os seguintes campos: statusEnvio, statusCons
 Confira um código para tratamento do retorno, no qual pegará as informações dispostas no JSON de Retorno disponibilizado:
 
 
-    $resposta = $NFeAPI->emitirNFSeSincrono($conteudo, $tpConteudo, $cnpjEmit, $tpDown, $tpAmb, $caminho, $exibeNaTela);
+    $resposta = $NFSeAPI->emitirNFSeSincrono($conteudo, $tpConteudo, $cnpjEmit, $tpDown, $tpAmb, $caminho, $exibeNaTela);
 
     $statusEnvio = $resposta['statusEnvio'];
     $statusConsulta = $resposta['statusConsulta'];
